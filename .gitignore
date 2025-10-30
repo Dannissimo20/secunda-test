@@ -1,0 +1,5 @@
+.vscode
+.venv
+.env
+postgres_data
+*.pyc
